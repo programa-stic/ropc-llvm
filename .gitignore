@@ -1,0 +1,7 @@
+*.o
+*.cmi
+*.cmo
+*.cmx
+*.bin
+a.out
+*.formula.txt
